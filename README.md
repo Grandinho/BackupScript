@@ -1,2 +1,2 @@
 # BackupScript
-Simple backup script for school modul 122
+Simple backup script with powershell for school modul 122
